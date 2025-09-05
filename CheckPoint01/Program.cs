@@ -1,4 +1,4 @@
-﻿namespace CheckPoint1;
+﻿namespace CheckPoint01;
 
 internal static class Program
 {

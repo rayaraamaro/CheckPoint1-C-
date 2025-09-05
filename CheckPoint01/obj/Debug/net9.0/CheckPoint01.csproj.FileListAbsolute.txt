@@ -1,0 +1,14 @@
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/bin/Debug/net9.0/CheckPoint01
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/bin/Debug/net9.0/CheckPoint01.deps.json
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/bin/Debug/net9.0/CheckPoint01.runtimeconfig.json
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/bin/Debug/net9.0/CheckPoint01.dll
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/bin/Debug/net9.0/CheckPoint01.pdb
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/CheckPoint01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/CheckPoint01.AssemblyInfoInputs.cache
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/CheckPoint01.AssemblyInfo.cs
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/CheckPoint01.csproj.CoreCompileInputs.cache
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/CheckPoint01.dll
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/refint/CheckPoint01.dll
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/CheckPoint01.pdb
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/CheckPoint01.genruntimeconfig.cache
+/Users/rayaraamaro/RiderProjects/CheckPoint01/CheckPoint01/obj/Debug/net9.0/ref/CheckPoint01.dll

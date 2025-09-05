@@ -6,7 +6,7 @@
 
 ## 📌 Descrição
 
-Este projeto foi desenvolvido para o **Checkpoint 1 da disciplina de C Software Development  
+Este projeto foi desenvolvido para o **Checkpoint 1 da disciplina de C Software Development**
 
 O objetivo foi implementar e testar diversos conceitos da linguagem C#, incluindo:  
 - Declaração de variáveis e tipos de dados  
